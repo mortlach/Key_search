@@ -1,2 +1,3 @@
 # key_search
-brute-forcing the keys for simple arithmetic methods
+1. Simple arithmetic encrytpion methods.
+2. Finding keys for LP cippher text and cribs from n-gram database
